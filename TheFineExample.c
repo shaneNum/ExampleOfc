@@ -25,7 +25,7 @@ int main() {
 				}
 					printf("#");
 			}else{
-				printf("BOX");
+				printf("BRO");
 			}
 		}
 		printf("\n");
